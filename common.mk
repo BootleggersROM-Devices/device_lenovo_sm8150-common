@@ -185,10 +185,6 @@ PRODUCT_PACKAGES += \
     init.recovery.qcom.rc \
     ueventd.qcom.rc
 
-# Device-specific settings
-PRODUCT_PACKAGES += \
-    LenovoParts
-
 # Display
 PRODUCT_PACKAGES += \
     android.hardware.graphics.composer@2.4-impl \
